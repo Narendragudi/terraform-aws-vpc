@@ -45,3 +45,6 @@ this module creates following resources, we are using high availability (HA), we
 ### OUTPUTS
 
 * VPC_id - VPC id created
+* public_subnet_ids - 2 public subnet ids created
+* private_subnet_ids - 2 private subnet ids created
+* database_subnet_ids - 2 database subnet ids created
